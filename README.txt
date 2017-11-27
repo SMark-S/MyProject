@@ -1,0 +1,1 @@
+This project is created for educational purposes. My interests include C and Python programming languages.
